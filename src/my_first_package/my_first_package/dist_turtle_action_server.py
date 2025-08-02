@@ -19,7 +19,7 @@ class DistTurtleServer(Node):
         for n in range(0,10):
             feedback_msg.remained_dist = float(n)
             goal_handle.publish_feedback(feedback_msg)
-            await asyncio.sleep(0.5)
+            time.sleep(0.5)
         goal_handle.succeed()
         result = DistTurtle.Result()
         return result
