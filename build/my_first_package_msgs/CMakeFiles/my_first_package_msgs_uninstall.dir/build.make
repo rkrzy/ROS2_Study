@@ -53,10 +53,10 @@ RM = /usr/bin/cmake -E rm -f
 EQUALS = =
 
 # The top-level source directory on which CMake was run.
-CMAKE_SOURCE_DIR = /home/injunsik/ros2_study/src/my_first_package_msgs
+CMAKE_SOURCE_DIR = /root/ROS2_Study/src/my_first_package_msgs
 
 # The top-level build directory on which CMake was run.
-CMAKE_BINARY_DIR = /home/injunsik/ros2_study/build/my_first_package_msgs
+CMAKE_BINARY_DIR = /root/ROS2_Study/build/my_first_package_msgs
 
 # Utility rule file for my_first_package_msgs_uninstall.
 
@@ -67,7 +67,7 @@ include CMakeFiles/my_first_package_msgs_uninstall.dir/compiler_depend.make
 include CMakeFiles/my_first_package_msgs_uninstall.dir/progress.make
 
 CMakeFiles/my_first_package_msgs_uninstall:
-	/usr/bin/cmake -P /home/injunsik/ros2_study/build/my_first_package_msgs/ament_cmake_uninstall_target/ament_cmake_uninstall_target.cmake
+	/usr/bin/cmake -P /root/ROS2_Study/build/my_first_package_msgs/ament_cmake_uninstall_target/ament_cmake_uninstall_target.cmake
 
 my_first_package_msgs_uninstall: CMakeFiles/my_first_package_msgs_uninstall
 my_first_package_msgs_uninstall: CMakeFiles/my_first_package_msgs_uninstall.dir/build.make
@@ -82,6 +82,6 @@ CMakeFiles/my_first_package_msgs_uninstall.dir/clean:
 .PHONY : CMakeFiles/my_first_package_msgs_uninstall.dir/clean
 
 CMakeFiles/my_first_package_msgs_uninstall.dir/depend:
-	cd /home/injunsik/ros2_study/build/my_first_package_msgs && $(CMAKE_COMMAND) -E cmake_depends "Unix Makefiles" /home/injunsik/ros2_study/src/my_first_package_msgs /home/injunsik/ros2_study/src/my_first_package_msgs /home/injunsik/ros2_study/build/my_first_package_msgs /home/injunsik/ros2_study/build/my_first_package_msgs /home/injunsik/ros2_study/build/my_first_package_msgs/CMakeFiles/my_first_package_msgs_uninstall.dir/DependInfo.cmake --color=$(COLOR)
+	cd /root/ROS2_Study/build/my_first_package_msgs && $(CMAKE_COMMAND) -E cmake_depends "Unix Makefiles" /root/ROS2_Study/src/my_first_package_msgs /root/ROS2_Study/src/my_first_package_msgs /root/ROS2_Study/build/my_first_package_msgs /root/ROS2_Study/build/my_first_package_msgs /root/ROS2_Study/build/my_first_package_msgs/CMakeFiles/my_first_package_msgs_uninstall.dir/DependInfo.cmake --color=$(COLOR)
 .PHONY : CMakeFiles/my_first_package_msgs_uninstall.dir/depend
 

@@ -1,0 +1,22 @@
+[0.342s] Invoking command in '/root/ROS2_Study/build/my_first_package_msgs': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/root/yahboomcar_ws/install/yahboomcar_visual:/root/yahboomcar_ws/install/yahboomcar_nav:/root/yahboomcar_ws/install/yahboomcar_multi:/root/yahboomcar_ws/install/yahboomcar_mediapipe:/root/yahboomcar_ws/install/yahboomcar_laser:/root/yahboomcar_ws/install/yahboomcar_description:/root/yahboomcar_ws/install/yahboomcar_ctrl:/root/yahboomcar_ws/install/yahboomcar_bringup:/root/yahboomcar_ws/install/yahboomcar_astra:/root/yahboomcar_ws/install/yahboom_app_save_map:/root/yahboomcar_ws/install/laserscan_to_point_publisher:/opt/ros/humble /usr/bin/cmake /root/ROS2_Study/src/my_first_package_msgs -DCMAKE_INSTALL_PREFIX=/root/ROS2_Study/install/my_first_package_msgs
+[0.406s] -- The C compiler identification is GNU 11.4.0
+[0.475s] -- The CXX compiler identification is GNU 11.4.0
+[0.483s] -- Detecting C compiler ABI info
+[0.576s] -- Detecting C compiler ABI info - done
+[0.588s] -- Check for working C compiler: /usr/bin/cc - skipped
+[0.588s] -- Detecting C compile features
+[0.588s] -- Detecting C compile features - done
+[0.594s] -- Detecting CXX compiler ABI info
+[0.718s] -- Detecting CXX compiler ABI info - done
+[0.732s] -- Check for working CXX compiler: /usr/bin/c++ - skipped
+[0.733s] -- Detecting CXX compile features
+[0.733s] -- Detecting CXX compile features - done
+[0.747s] -- Found ament_cmake: 1.3.6 (/opt/ros/humble/share/ament_cmake/cmake)
+[0.930s] -- Found Python3: /usr/bin/python3.10 (found version "3.10.12") found components: Interpreter 
+[1.094s] [31mCMake Error at CMakeLists.txt:14 (rosidl_generate_interfaces):
+[1.095s]   Unknown CMake command "rosidl_generate_interfaces".
+[1.095s] 
+[1.095s] [0m
+[1.096s] -- Configuring incomplete, errors occurred!
+[1.096s] See also "/root/ROS2_Study/build/my_first_package_msgs/CMakeFiles/CMakeOutput.log".
+[1.100s] Invoked command in '/root/ROS2_Study/build/my_first_package_msgs' returned '1': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/root/yahboomcar_ws/install/yahboomcar_visual:/root/yahboomcar_ws/install/yahboomcar_nav:/root/yahboomcar_ws/install/yahboomcar_multi:/root/yahboomcar_ws/install/yahboomcar_mediapipe:/root/yahboomcar_ws/install/yahboomcar_laser:/root/yahboomcar_ws/install/yahboomcar_description:/root/yahboomcar_ws/install/yahboomcar_ctrl:/root/yahboomcar_ws/install/yahboomcar_bringup:/root/yahboomcar_ws/install/yahboomcar_astra:/root/yahboomcar_ws/install/yahboom_app_save_map:/root/yahboomcar_ws/install/laserscan_to_point_publisher:/opt/ros/humble /usr/bin/cmake /root/ROS2_Study/src/my_first_package_msgs -DCMAKE_INSTALL_PREFIX=/root/ROS2_Study/install/my_first_package_msgs

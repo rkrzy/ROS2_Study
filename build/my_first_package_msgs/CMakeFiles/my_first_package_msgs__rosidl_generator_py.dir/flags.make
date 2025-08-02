@@ -4,7 +4,7 @@
 # compile C with /usr/bin/cc
 C_DEFINES = -DRCUTILS_ENABLE_FAULT_INJECTION -DROS_PACKAGE_NAME=\"my_first_package_msgs\" -Dmy_first_package_msgs__rosidl_generator_py_EXPORTS
 
-C_INCLUDES = -I/home/injunsik/ros2_study/build/my_first_package_msgs/rosidl_generator_c -I/home/injunsik/ros2_study/build/my_first_package_msgs/rosidl_generator_py -I/usr/include/python3.10 -isystem /opt/ros/humble/include/rosidl_runtime_c -isystem /opt/ros/humble/include/rcutils -isystem /opt/ros/humble/include/rosidl_typesupport_interface
+C_INCLUDES = -I/root/ROS2_Study/build/my_first_package_msgs/rosidl_generator_c -I/root/ROS2_Study/build/my_first_package_msgs/rosidl_generator_py -I/usr/include/python3.10 -isystem /opt/ros/humble/include/rosidl_runtime_c -isystem /opt/ros/humble/include/rcutils -isystem /opt/ros/humble/include/rosidl_typesupport_interface
 
 C_FLAGS = -fPIC -Wall -Wextra
 

@@ -1,7 +1,7 @@
 CMakeFiles/my_first_package_msgs__rosidl_generator_c.dir/rosidl_generator_c/my_first_package_msgs/msg/detail/cmd_and_pose_vel__functions.c.o: \
- /home/injunsik/ros2_study/build/my_first_package_msgs/rosidl_generator_c/my_first_package_msgs/msg/detail/cmd_and_pose_vel__functions.c \
+ /root/ROS2_Study/build/my_first_package_msgs/rosidl_generator_c/my_first_package_msgs/msg/detail/cmd_and_pose_vel__functions.c \
  /usr/include/stdc-predef.h \
- /home/injunsik/ros2_study/build/my_first_package_msgs/rosidl_generator_c/my_first_package_msgs/msg/detail/cmd_and_pose_vel__functions.h \
+ /root/ROS2_Study/build/my_first_package_msgs/rosidl_generator_c/my_first_package_msgs/msg/detail/cmd_and_pose_vel__functions.h \
  /usr/lib/gcc/aarch64-linux-gnu/11/include/stdbool.h \
  /usr/include/stdlib.h \
  /usr/include/aarch64-linux-gnu/bits/libc-header-start.h \
@@ -44,8 +44,8 @@ CMakeFiles/my_first_package_msgs__rosidl_generator_c.dir/rosidl_generator_c/my_f
  /usr/include/aarch64-linux-gnu/bits/struct_rwlock.h \
  /usr/include/alloca.h /usr/include/aarch64-linux-gnu/bits/stdlib-float.h \
  /opt/ros/humble/include/rosidl_runtime_c/rosidl_runtime_c/visibility_control.h \
- /home/injunsik/ros2_study/build/my_first_package_msgs/rosidl_generator_c/my_first_package_msgs/msg/rosidl_generator_c__visibility_control.h \
- /home/injunsik/ros2_study/build/my_first_package_msgs/rosidl_generator_c/my_first_package_msgs/msg/detail/cmd_and_pose_vel__struct.h \
+ /root/ROS2_Study/build/my_first_package_msgs/rosidl_generator_c/my_first_package_msgs/msg/rosidl_generator_c__visibility_control.h \
+ /root/ROS2_Study/build/my_first_package_msgs/rosidl_generator_c/my_first_package_msgs/msg/detail/cmd_and_pose_vel__struct.h \
  /usr/lib/gcc/aarch64-linux-gnu/11/include/stdint.h /usr/include/stdint.h \
  /usr/include/aarch64-linux-gnu/bits/wchar.h \
  /usr/include/aarch64-linux-gnu/bits/stdint-uintn.h /usr/include/assert.h \

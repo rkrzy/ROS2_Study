@@ -1,6 +1,6 @@
 set(_AMENT_PACKAGE_NAME "my_first_package_msgs")
 set(my_first_package_msgs_VERSION "0.0.0")
-set(my_first_package_msgs_MAINTAINER "injunsik <injunsik@todo.todo>")
+set(my_first_package_msgs_MAINTAINER "root <root@todo.todo>")
 set(my_first_package_msgs_BUILD_DEPENDS "rosidl_default_generators")
 set(my_first_package_msgs_BUILDTOOL_DEPENDS "ament_cmake")
 set(my_first_package_msgs_BUILD_EXPORT_DEPENDS )

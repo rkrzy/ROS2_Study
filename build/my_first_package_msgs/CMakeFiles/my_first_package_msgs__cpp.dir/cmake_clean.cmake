@@ -4,7 +4,6 @@ file(REMOVE_RECURSE
   "rosidl_generator_cpp/my_first_package_msgs/msg/detail/cmd_and_pose_vel__builder.hpp"
   "rosidl_generator_cpp/my_first_package_msgs/msg/detail/cmd_and_pose_vel__struct.hpp"
   "rosidl_generator_cpp/my_first_package_msgs/msg/detail/cmd_and_pose_vel__traits.hpp"
-  "rosidl_generator_cpp/my_first_package_msgs/msg/detail/cmd_and_pose_vel__type_support.hpp"
 )
 
 # Per-language clean rules from dependency scanning.

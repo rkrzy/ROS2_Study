@@ -53,10 +53,10 @@ RM = /usr/bin/cmake -E rm -f
 EQUALS = =
 
 # The top-level source directory on which CMake was run.
-CMAKE_SOURCE_DIR = /home/injunsik/ros2_study/src/my_first_package_msgs
+CMAKE_SOURCE_DIR = /root/ROS2_Study/src/my_first_package_msgs
 
 # The top-level build directory on which CMake was run.
-CMAKE_BINARY_DIR = /home/injunsik/ros2_study/build/my_first_package_msgs
+CMAKE_BINARY_DIR = /root/ROS2_Study/build/my_first_package_msgs
 
 # Utility rule file for uninstall.
 
@@ -78,6 +78,6 @@ CMakeFiles/uninstall.dir/clean:
 .PHONY : CMakeFiles/uninstall.dir/clean
 
 CMakeFiles/uninstall.dir/depend:
-	cd /home/injunsik/ros2_study/build/my_first_package_msgs && $(CMAKE_COMMAND) -E cmake_depends "Unix Makefiles" /home/injunsik/ros2_study/src/my_first_package_msgs /home/injunsik/ros2_study/src/my_first_package_msgs /home/injunsik/ros2_study/build/my_first_package_msgs /home/injunsik/ros2_study/build/my_first_package_msgs /home/injunsik/ros2_study/build/my_first_package_msgs/CMakeFiles/uninstall.dir/DependInfo.cmake --color=$(COLOR)
+	cd /root/ROS2_Study/build/my_first_package_msgs && $(CMAKE_COMMAND) -E cmake_depends "Unix Makefiles" /root/ROS2_Study/src/my_first_package_msgs /root/ROS2_Study/src/my_first_package_msgs /root/ROS2_Study/build/my_first_package_msgs /root/ROS2_Study/build/my_first_package_msgs /root/ROS2_Study/build/my_first_package_msgs/CMakeFiles/uninstall.dir/DependInfo.cmake --color=$(COLOR)
 .PHONY : CMakeFiles/uninstall.dir/depend
 

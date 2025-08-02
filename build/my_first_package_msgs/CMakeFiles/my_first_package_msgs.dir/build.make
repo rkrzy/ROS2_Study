@@ -53,10 +53,10 @@ RM = /usr/bin/cmake -E rm -f
 EQUALS = =
 
 # The top-level source directory on which CMake was run.
-CMAKE_SOURCE_DIR = /home/injunsik/ros2_study/src/my_first_package_msgs
+CMAKE_SOURCE_DIR = /root/ROS2_Study/src/my_first_package_msgs
 
 # The top-level build directory on which CMake was run.
-CMAKE_BINARY_DIR = /home/injunsik/ros2_study/build/my_first_package_msgs
+CMAKE_BINARY_DIR = /root/ROS2_Study/build/my_first_package_msgs
 
 # Utility rule file for my_first_package_msgs.
 
@@ -66,7 +66,7 @@ include CMakeFiles/my_first_package_msgs.dir/compiler_depend.make
 # Include the progress variables for this target.
 include CMakeFiles/my_first_package_msgs.dir/progress.make
 
-CMakeFiles/my_first_package_msgs: /home/injunsik/ros2_study/src/my_first_package_msgs/msg/CmdAndPoseVel.msg
+CMakeFiles/my_first_package_msgs: /root/ROS2_Study/src/my_first_package_msgs/msg/CmdAndPoseVel.msg
 
 my_first_package_msgs: CMakeFiles/my_first_package_msgs
 my_first_package_msgs: CMakeFiles/my_first_package_msgs.dir/build.make
@@ -81,6 +81,6 @@ CMakeFiles/my_first_package_msgs.dir/clean:
 .PHONY : CMakeFiles/my_first_package_msgs.dir/clean
 
 CMakeFiles/my_first_package_msgs.dir/depend:
-	cd /home/injunsik/ros2_study/build/my_first_package_msgs && $(CMAKE_COMMAND) -E cmake_depends "Unix Makefiles" /home/injunsik/ros2_study/src/my_first_package_msgs /home/injunsik/ros2_study/src/my_first_package_msgs /home/injunsik/ros2_study/build/my_first_package_msgs /home/injunsik/ros2_study/build/my_first_package_msgs /home/injunsik/ros2_study/build/my_first_package_msgs/CMakeFiles/my_first_package_msgs.dir/DependInfo.cmake --color=$(COLOR)
+	cd /root/ROS2_Study/build/my_first_package_msgs && $(CMAKE_COMMAND) -E cmake_depends "Unix Makefiles" /root/ROS2_Study/src/my_first_package_msgs /root/ROS2_Study/src/my_first_package_msgs /root/ROS2_Study/build/my_first_package_msgs /root/ROS2_Study/build/my_first_package_msgs /root/ROS2_Study/build/my_first_package_msgs/CMakeFiles/my_first_package_msgs.dir/DependInfo.cmake --color=$(COLOR)
 .PHONY : CMakeFiles/my_first_package_msgs.dir/depend
 

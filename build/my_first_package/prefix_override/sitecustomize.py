@@ -1,4 +1,3 @@
 import sys
-if sys.prefix == '/usr':
-    sys.real_prefix = sys.prefix
-    sys.prefix = sys.exec_prefix = '/home/injunsik/ros2_study/install/my_first_package'
+sys.real_prefix = sys.prefix
+sys.prefix = sys.exec_prefix = '/root/ROS2_Study/install/my_first_package'

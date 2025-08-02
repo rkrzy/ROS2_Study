@@ -1,9 +1,9 @@
 {
   "package_name": "my_first_package_msgs",
-  "output_dir": "/home/injunsik/ros2_study/build/my_first_package_msgs/rosidl_typesupport_cpp/my_first_package_msgs",
+  "output_dir": "/root/ROS2_Study/build/my_first_package_msgs/rosidl_typesupport_cpp/my_first_package_msgs",
   "template_dir": "/opt/ros/humble/share/rosidl_typesupport_cpp/resource",
   "idl_tuples": [
-    "/home/injunsik/ros2_study/build/my_first_package_msgs/rosidl_adapter/my_first_package_msgs:msg/CmdAndPoseVel.idl"
+    "/root/ROS2_Study/build/my_first_package_msgs/rosidl_adapter/my_first_package_msgs:msg/CmdAndPoseVel.idl"
   ],
   "target_dependencies": [
     "/opt/ros/humble/lib/rosidl_typesupport_cpp/rosidl_typesupport_cpp",
@@ -12,6 +12,6 @@
     "/opt/ros/humble/share/rosidl_typesupport_cpp/resource/idl__type_support.cpp.em",
     "/opt/ros/humble/share/rosidl_typesupport_cpp/resource/msg__type_support.cpp.em",
     "/opt/ros/humble/share/rosidl_typesupport_cpp/resource/srv__type_support.cpp.em",
-    "/home/injunsik/ros2_study/build/my_first_package_msgs/rosidl_adapter/my_first_package_msgs/msg/CmdAndPoseVel.idl"
+    "/root/ROS2_Study/build/my_first_package_msgs/rosidl_adapter/my_first_package_msgs/msg/CmdAndPoseVel.idl"
   ]
 }
